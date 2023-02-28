@@ -1,2 +1,2 @@
 # Tate or Confucius
-![tateorconfucius.com](website.png)
+<a href="http://tateorconfucius.com">![tateorconfucius.com](website.png)</a>
