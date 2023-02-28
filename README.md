@@ -1,2 +1,2 @@
 # Tate or Confucius
-![](website.png)
+![tateorconfucius.com](website.png)
